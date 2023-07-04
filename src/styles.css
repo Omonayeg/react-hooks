@@ -49,25 +49,30 @@ https://micku7zu.github.io/vanilla-tilt.js/index.html
 
 .status {
   margin-bottom: 10px;
+  font-size: 19px;
+  font-weight: bold;
+  text-align: center;
 }
 
 .restart {
   margin-top: 10px;
+  background-color: #000;
+  color: white;
 }
 
 .square {
   background: #fff;
-  border: 1px solid #999;
+  border: 2px solid #313131;
   float: left;
-  font-size: 24px;
+  font-size: 38px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 64px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 64px;
 }
 
 .square:focus {
